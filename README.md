@@ -1,13 +1,13 @@
-# Deep-Learning
+# 🍇🍈🍉 Deep-Learning 🍉🍈🍇
 
-### Introduction to Deep Learning  
+### 🍇🍈🍉 Introduction to Deep Learning 🍉🍈🍇
 
 Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!  
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
 
-### History of Deep Learning Development  
+### 🍇🍈🍉 History of Deep Learning Development 🍉🍈🍇 
 
 Deep learning has roots that can be traced back to the fundamental concept of artificial neural networks, starting in 1943 when Warren McCulloch and Walter Pitts introduced the first neural network model. This concept inspired further developments in the field of artificial intelligence.  
 
@@ -25,7 +25,7 @@ In natural language processing, deep learning has accelerated progress in text c
 
 Deep learning’s development has been driven by the emergence of frameworks such as TensorFlow and PyTorch, which simplify the development and implementation of deep neural networks.  
 
-### Definition of Deep Learning  
+### 🍇🍈🍉 Definition of Deep Learning  🍉🍈🍇
 
 Deep learning is a subfield of artificial intelligence that uses algorithms inspired by how the human brain works. This method is implemented through artificial neural networks (ANN).  
 
