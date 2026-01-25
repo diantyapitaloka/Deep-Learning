@@ -2,7 +2,7 @@
 
 ### 🍇🍈🍉 Introduction to Deep Learning 🍉🍈🍇
 
-Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!  
+- Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!  
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
