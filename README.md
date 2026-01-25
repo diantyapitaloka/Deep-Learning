@@ -2,7 +2,8 @@
 
 ### 🍇🍈🍉 Introduction to Deep Learning 🍉🍈🍇
 
-- Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!  
+- Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!
+- Increased Layer Depth: Unlike traditional shallow networks, deep learning models utilize multiple hidden layers to process information. This "depth" allows the model to learn increasingly complex features at each subsequent level of the network.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
