@@ -7,6 +7,7 @@
 - Automated Feature Extraction: One of the biggest advantages is that these models automatically discover the best way to represent data. This eliminates the need for manual "feature engineering," where humans have to tell the computer exactly what patterns to look for.
 - Handling Unstructured Data: Deep learning excels at interpreting unstructured data like images, audio, and raw text. It transforms these high-dimensional inputs into mathematical vectors that the computer can easily classify or manipulate.
 - The Power of Scalability: These models generally perform better as you feed them more data, unlike older machine learning algorithms that tend to plateau. Because of this, they are the primary engine behind modern Big Data applications.
+- Computational Requirements: Training these deep architectures requires significant processing power, often relying on GPUs (Graphics Processing Units). This hardware allows for the parallel processing of the massive matrix multiplications happening under the hood.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
