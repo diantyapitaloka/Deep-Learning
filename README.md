@@ -12,8 +12,7 @@
 - Non-Linear Activation Functions: These models use specialized mathematical functions like ReLU or Sigmoid to introduce non-linearity into the network's calculations. Without these, even the deepest network would collapse into a simple linear model, unable to learn complex patterns.
 - Backpropagation and Optimization: Deep learning relies on the backpropagation algorithm to calculate the error gradient from the output back through the hidden layers. This process allows optimization algorithms like Adam or SGD to fine-tune the weights for better accuracy.
 - Transfer Learning Capabilities: You can take a model trained on a massive dataset and "fine-tune" it for a specific, smaller task with surprising efficiency. This saves immense amounts of time and computing power by building on top of previously learned features.
-
-Regularization Techniques: To prevent "overfitting," where a model simply memorizes the training data, developers use techniques like Dropout or Batch Normalization. These methods ensure the model generalizes well to new, unseen information rather than just getting lucky.
+- Regularization Techniques: To prevent "overfitting," where a model simply memorizes the training data, developers use techniques like Dropout or Batch Normalization. These methods ensure the model generalizes well to new, unseen information rather than just getting lucky.
 
 End-to-End Learning: Deep learning systems often operate as a single unit that maps raw input directly to the final output without intermediate human intervention. This streamlined approach minimizes the bias that can occur when humans manually segment complex tasks.
 
