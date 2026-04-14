@@ -16,8 +16,7 @@
 - End-to-End Learning: Deep learning systems often operate as a single unit that maps raw input directly to the final output without intermediate human intervention. This streamlined approach minimizes the bias that can occur when humans manually segment complex tasks.
 - Vanishing Gradient Problem: As networks get deeper, the signals used to train the earlier layers can become extremely small, making learning difficult. Modern architectures like Residual Networks (ResNets) use "skip connections" to help these signals travel through the depth of the model.
 - Loss Function Optimization: Every deep learning model uses a loss function to measure the distance between its current prediction and the actual ground truth. The goal of training is to minimize this value, effectively "teaching" the model to be more precise over time.
-
-Latent Space Representation: Deep learning compresses input data into a lower-dimensional "latent space" where similar concepts are grouped closer together mathematically. This internal map allows the model to understand the underlying structure and relationships within the data.
+- Latent Space Representation: Deep learning compresses input data into a lower-dimensional "latent space" where similar concepts are grouped closer together mathematically. This internal map allows the model to understand the underlying structure and relationships within the data.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
