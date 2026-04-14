@@ -10,8 +10,7 @@
 - Computational Requirements: Training these deep architectures requires significant processing power, often relying on GPUs (Graphics Processing Units). This hardware allows for the parallel processing of the massive matrix multiplications happening under the hood.
 - Universal Function Approximation: Theoretically, a deep neural network can approximate almost any continuous mathematical function. This makes them incredibly versatile tools for everything from medical diagnosis to self-driving car navigation.
 - Non-Linear Activation Functions: These models use specialized mathematical functions like ReLU or Sigmoid to introduce non-linearity into the network's calculations. Without these, even the deepest network would collapse into a simple linear model, unable to learn complex patterns.
-
-Backpropagation and Optimization: Deep learning relies on the backpropagation algorithm to calculate the error gradient from the output back through the hidden layers. This process allows optimization algorithms like Adam or SGD to fine-tune the weights for better accuracy.
+- Backpropagation and Optimization: Deep learning relies on the backpropagation algorithm to calculate the error gradient from the output back through the hidden layers. This process allows optimization algorithms like Adam or SGD to fine-tune the weights for better accuracy.
 
 Transfer Learning Capabilities: You can take a model trained on a massive dataset and "fine-tune" it for a specific, smaller task with surprising efficiency. This saves immense amounts of time and computing power by building on top of previously learned features.
 
