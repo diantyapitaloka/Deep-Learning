@@ -3,7 +3,7 @@
 ### 🍇🍈🍉 Introduction to Deep Learning 🍉🍈🍇
 
 - Hi hi! Yup, in the previous material, we thoroughly discussed neural networks as a foundation for understanding deep learning. Hopefully, that discussion provided a clear picture of neural networks!
-- Increased Layer Depth: Unlike traditional shallow networks, deep learning models utilize multiple hidden layers to process information. This "depth" allows the model to learn increasingly complex features at each subsequent level of the network.
+- Increased Layer Depth: Unlike traditional shallow networks, deep learning models utilize multiple hidden layers to process information. This "depth" allows the model to learn increasingly complex features at each subsequent level of the networks.
 - Automated Feature Extraction: One of the biggest advantages is that these models automatically discover the best way to represent data. This eliminates the need for manual "feature engineering," where humans have to tell the computer exactly what patterns to look for.
 - Handling Unstructured Data: Deep learning excels at interpreting unstructured data like images, audio, and raw text. It transforms these high-dimensional inputs into mathematical vectors that the computer can easily classify or manipulate.
 - The Power of Scalability: These models generally perform better as you feed them more data, unlike older machine learning algorithms that tend to plateau. Because of this, they are the primary engine behind modern Big Data applications.
