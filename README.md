@@ -27,7 +27,7 @@ Deep learning has roots that can be traced back to the fundamental concept of ar
 
 In the 1950s and 1960s, scientists like Frank Rosenblatt developed the perceptron, an early form of artificial neural networks capable of recognizing simple patterns. However, significant advancements in deep learning only emerged in the 1980s and 1990s, when more efficient learning methods and improved training algorithms were developed.  
 
-In 2006, Geoffrey Hinton, Yoshua Bengio, and Yann LeCun successfully developed the backpropagation algorithm, enabling the efficient training of deeper neural networks. Backpropagation allows the adjustment of network weights based on prediction errors, leading to better learning from data.  
+In 2006, Geoffrey Hinton, Yoshua Bengio, and Yann LeCun successfully developed to the backpropagation algorithm, enabling the efficient training of deeper neural networks. Backpropagation allows the adjustment of network weights based on prediction errors, leading to better learning from data.  
 
 Further progress was made with the use of powerful graphics processing units (GPUs) to accelerate the training of complex neural networks. Additionally, stronger and more widely available hardware supported deep learning advancements.  
 
