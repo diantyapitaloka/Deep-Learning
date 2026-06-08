@@ -25,7 +25,7 @@
 
 Deep learning has roots that can be traced back to the fundamental concept of artificial neural networks, starting in 1943 when Warren McCulloch and Walter Pitts introduced the first neural network model. This concept inspired further developments in the field of artificial intelligence.  
 
-In the 1950s and 1960s, scientists like Frank Rosenblatt developed the perceptron, an early form of artificial neural networks capable of recognizing simple patterns. However, significant advancements in deep learning only emerged in the 1980s and 1990s, when more efficient learning methods and improved training algorithms were developed.  
+In the 1950s and 1960s, scientists like Frank Rosenblatt developed the perceptron, an early form of artificial neural networks capable of recognizing simple patterns. However, significant advancements in deep learning only emerged in the 1980s and 1990s, when more efficient learning methods and improved training algorithms were also developed.  
 
 In 2006, Geoffrey Hinton, Yoshua Bengio, and Yann LeCun successfully developed to the backpropagation algorithm, enabling the efficient training of deeper neural networks. Backpropagation allows the adjustment of network weights based on prediction errors, leading to better learning from data.  
 
