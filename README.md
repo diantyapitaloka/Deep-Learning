@@ -29,7 +29,7 @@ In the 1950s and 1960s, scientists like Frank Rosenblatt developed the perceptro
 
 In 2006, Geoffrey Hinton, Yoshua Bengio, and Yann LeCun successfully developed to the backpropagation algorithm, enabling the efficient training of deeper neural networks. Backpropagation allows the adjustment of network weights based on prediction errors, leading to better learning from data.  
 
-Further progress was made with the use of powerful graphics processing units (GPUs) to accelerate the training of complex neural networks. Additionally, stronger and more widely available hardware supported deep learning advancements.  
+Further progress was made with the use of powerful graphics processing units (GPUs) to accelerate the training of complex neural networks. Like additionally, stronger and more widely available hardware supported deep learning advancements.  
 
 A turning point occurred in 2012 when a deep convolutional neural network known as AlexNet won the ImageNet competition with impressive results. This victory demonstrated deep learning’s capabilities in image recognition.  
 
