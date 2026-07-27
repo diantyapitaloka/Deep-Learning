@@ -25,6 +25,21 @@
 - Hyperparameter Tuning Complexity: Achieving optimal performance requires carefully balancing a wide range of hyperparameters, such as learning rates, batch sizes, weight decay, and layer configurations, often using automated methods like Bayesian optimization.
 - Explainability and Black-Box Challenges: As models grow in depth and parameter size, understanding why a specific decision was made becomes difficult. Interpretability techniques like SHAP, LIME, and saliency maps are crucial for building trust in high-stakes domain deployments.
 - Edge AI and Model Compression: Deploying deep learning models on resource-constrained devices (like mobile phones or IoT sensors) requires techniques like quantization, pruning, and knowledge distillation to shrink model size without sacrificing significant accuracy.
+- Quantization & Model Compression: Deep learning models can be distilled, pruned, or converted from full-precision floats (FP32) to low-bit representations (INT8 or FP8). This enables massive neural networks to run locally on resource-constrained edge devices, such as smartphones, microcontrollers, and IoT hardware, without significant loss in accuracy.
+
+Self-Supervised & Unsupervised Pre-training: Instead of relying strictly on human-labeled datasets, modern deep architectures leverage self-supervised learning techniques (like masked language modeling or contrastive learning) to learn rich underlying patterns from vast pools of unlabeled raw data.
+
+Implicit Bias & Grokking: Deep networks often experience phenomena where performance suddenly generalizes long after training loss reaches near-zero—a phase known as "grokking." This reveals that deep learning optimization naturally gravitates toward flatter, more generalizable minina even in overparameterized regimes.
+
+Distributed Training & Model Parallelism: Scaling deep learning to billions or trillions of parameters requires splitting model architectures across thousands of synchronized GPUs using Data Parallelism, Tensor Parallelism, and Pipeline Parallelism to handle memory and compute limits.
+
+Contrastive Learning & Multimodal Alignment: Deep architectures can project completely different data modalities (such as text, images, and audio) into a shared embedding space. By pulling matching pairs together and pushing mismatched pairs apart, networks enable cross-modal tasks like text-to-image search and zero-shot classification.
+
+Neural Architecture Search (NAS): Rather than relying purely on manual human design, automated Machine Learning (AutoML) algorithms can automatically search, test, and optimize full network architectures to construct the best-performing neural topology for a given task and latency budget.
+
+Diffusion & Flow-Matching Dynamics: Modern deep generative networks model complex data generation as continuous-time processes, learning to incrementally reverse noise or trace continuous vector fields to generate high-fidelity samples across images, audio, and protein structures.
+
+Out-of-Distribution (OOD) Detection & Uncertainty Estimation: High-performing deep learning models can produce confident yet incorrect predictions when presented with data that radically diverges from their training distribution. Techniques like Bayesian neural networks and ensemble methods allow models to quantify their own predictive uncertainty for safety-critical systems.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
