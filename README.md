@@ -18,8 +18,7 @@
 - Loss Function Optimization: Every deep learning model uses a loss function to measure the distance between its current prediction and the actual ground truth. The goal of training is to minimize this value, effectively "teaching" the model to be more precise over time.
 - Latent Space Representation: Deep learning compresses input data into a lower-dimensional "latent space" where similar concepts are grouped closer together mathematically. Hence, this internal map allows the model to understand the underlying structure and relationships within the data.
 - Representation Learning: Deep learning models learn hierarchical representations of data, building low-level features (like edges or lines) into mid-level textures, and eventually into high-level semantic concepts (like a face or a car).
-
-Attention Mechanisms & Transformers: Modern deep architectures use attention mechanisms to dynamically focus on the most relevant parts of input sequences. This innovation powers State-of-the-Art (SOTA) Large Language Models and Vision Transformers.
+- Attention Mechanisms & Transformers: Modern deep architectures use attention mechanisms to dynamically focus on the most relevant parts of input sequences. This innovation powers State-of-the-Art (SOTA) Large Language Models and Vision Transformers.
 
 Data Augmentations & Synthetic Data: To combat data scarcity and improve robustness, deep learning heavily relies on generating synthetic samples or transforming existing data (e.g., rotating images, adding noise) during training.
 
