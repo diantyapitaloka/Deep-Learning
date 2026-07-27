@@ -22,8 +22,7 @@
 - Data Augmentations & Synthetic Data: To combat data scarcity and improve robustness, deep learning heavily relies on generating synthetic samples or transforming existing data (e.g., rotating images, adding noise) during training.
 - Inductive Bias & Architecture Selection: Choosing specific network structures introduces specialized prior knowledge into the model. For instance, Convolutional Neural Networks (CNNs) carry a spatial bias for images, while Recurrent Neural Networks (RNNs) carry a temporal bias for sequential text or time series.
 - Generative Capabilities: Deep learning goes beyond classification or regression by learning data distributions to generate entirely new, realistic content—such as photorealistic images, audio, and code—via Generative Adversarial Networks (GANs) and Diffusion Models.
-
-Hyperparameter Tuning Complexity: Achieving optimal performance requires carefully balancing a wide range of hyperparameters, such as learning rates, batch sizes, weight decay, and layer configurations, often using automated methods like Bayesian optimization.
+- Hyperparameter Tuning Complexity: Achieving optimal performance requires carefully balancing a wide range of hyperparameters, such as learning rates, batch sizes, weight decay, and layer configurations, often using automated methods like Bayesian optimization.
 
 Explainability and Black-Box Challenges: As models grow in depth and parameter size, understanding why a specific decision was made becomes difficult. Interpretability techniques like SHAP, LIME, and saliency maps are crucial for building trust in high-stakes domain deployments.
 
