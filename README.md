@@ -27,8 +27,7 @@
 - Edge AI and Model Compression: Deploying deep learning models on resource-constrained devices (like mobile phones or IoT sensors) requires techniques like quantization, pruning, and knowledge distillation to shrink model size without sacrificing significant accuracy.
 - Quantization & Model Compression: Deep learning models can be distilled, pruned, or converted from full-precision floats (FP32) to low-bit representations (INT8 or FP8). This enables massive neural networks to run locally on resource-constrained edge devices, such as smartphones, microcontrollers, and IoT hardware, without significant loss in accuracy.
 - Self-Supervised & Unsupervised Pre-training: Instead of relying strictly on human-labeled datasets, modern deep architectures leverage self-supervised learning techniques (like masked language modeling or contrastive learning) to learn rich underlying patterns from vast pools of unlabeled raw data.
-
-Implicit Bias & Grokking: Deep networks often experience phenomena where performance suddenly generalizes long after training loss reaches near-zero—a phase known as "grokking." This reveals that deep learning optimization naturally gravitates toward flatter, more generalizable minina even in overparameterized regimes.
+- Implicit Bias & Grokking: Deep networks often experience phenomena where performance suddenly generalizes long after training loss reaches near-zero—a phase known as "grokking." This reveals that deep learning optimization naturally gravitates toward flatter, more generalizable minina even in overparameterized regimes.
 
 Distributed Training & Model Parallelism: Scaling deep learning to billions or trillions of parameters requires splitting model architectures across thousands of synchronized GPUs using Data Parallelism, Tensor Parallelism, and Pipeline Parallelism to handle memory and compute limits.
 
