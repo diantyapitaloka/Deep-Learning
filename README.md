@@ -21,8 +21,7 @@
 - Attention Mechanisms & Transformers: Modern deep architectures use attention mechanisms to dynamically focus on the most relevant parts of input sequences. This innovation powers State-of-the-Art (SOTA) Large Language Models and Vision Transformers.
 - Data Augmentations & Synthetic Data: To combat data scarcity and improve robustness, deep learning heavily relies on generating synthetic samples or transforming existing data (e.g., rotating images, adding noise) during training.
 - Inductive Bias & Architecture Selection: Choosing specific network structures introduces specialized prior knowledge into the model. For instance, Convolutional Neural Networks (CNNs) carry a spatial bias for images, while Recurrent Neural Networks (RNNs) carry a temporal bias for sequential text or time series.
-
-Generative Capabilities: Deep learning goes beyond classification or regression by learning data distributions to generate entirely new, realistic content—such as photorealistic images, audio, and code—via Generative Adversarial Networks (GANs) and Diffusion Models.
+- Generative Capabilities: Deep learning goes beyond classification or regression by learning data distributions to generate entirely new, realistic content—such as photorealistic images, audio, and code—via Generative Adversarial Networks (GANs) and Diffusion Models.
 
 Hyperparameter Tuning Complexity: Achieving optimal performance requires carefully balancing a wide range of hyperparameters, such as learning rates, batch sizes, weight decay, and layer configurations, often using automated methods like Bayesian optimization.
 
