@@ -24,8 +24,7 @@
 - Generative Capabilities: Deep learning goes beyond classification or regression by learning data distributions to generate entirely new, realistic content—such as photorealistic images, audio, and code—via Generative Adversarial Networks (GANs) and Diffusion Models.
 - Hyperparameter Tuning Complexity: Achieving optimal performance requires carefully balancing a wide range of hyperparameters, such as learning rates, batch sizes, weight decay, and layer configurations, often using automated methods like Bayesian optimization.
 - Explainability and Black-Box Challenges: As models grow in depth and parameter size, understanding why a specific decision was made becomes difficult. Interpretability techniques like SHAP, LIME, and saliency maps are crucial for building trust in high-stakes domain deployments.
-
-Edge AI and Model Compression: Deploying deep learning models on resource-constrained devices (like mobile phones or IoT sensors) requires techniques like quantization, pruning, and knowledge distillation to shrink model size without sacrificing significant accuracy.
+- Edge AI and Model Compression: Deploying deep learning models on resource-constrained devices (like mobile phones or IoT sensors) requires techniques like quantization, pruning, and knowledge distillation to shrink model size without sacrificing significant accuracy.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59cec616-f8c7-41c4-ae97-cf796479f9b8" />
 
