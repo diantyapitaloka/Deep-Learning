@@ -30,8 +30,7 @@
 - Implicit Bias & Grokking: Deep networks often experience phenomena where performance suddenly generalizes long after training loss reaches near-zero—a phase known as "grokking." This reveals that deep learning optimization naturally gravitates toward flatter, more generalizable minina even in overparameterized regimes.
 - Distributed Training & Model Parallelism: Scaling deep learning to billions or trillions of parameters requires splitting model architectures across thousands of synchronized GPUs using Data Parallelism, Tensor Parallelism, and Pipeline Parallelism to handle memory and compute limits.
 - Contrastive Learning & Multimodal Alignment: Deep architectures can project completely different data modalities (such as text, images, and audio) into a shared embedding space. By pulling matching pairs together and pushing mismatched pairs apart, networks enable cross-modal tasks like text-to-image search and zero-shot classification.
-
-Neural Architecture Search (NAS): Rather than relying purely on manual human design, automated Machine Learning (AutoML) algorithms can automatically search, test, and optimize full network architectures to construct the best-performing neural topology for a given task and latency budget.
+- Neural Architecture Search (NAS): Rather than relying purely on manual human design, automated Machine Learning (AutoML) algorithms can automatically search, test, and optimize full network architectures to construct the best-performing neural topology for a given task and latency budget.
 
 Diffusion & Flow-Matching Dynamics: Modern deep generative networks model complex data generation as continuous-time processes, learning to incrementally reverse noise or trace continuous vector fields to generate high-fidelity samples across images, audio, and protein structures.
 
